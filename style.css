@@ -1,5 +1,5 @@
 #img-perfil{
-    width: 150px;
+    width: 250px;
 }
 
 #img-stack{
@@ -11,11 +11,11 @@
 }
 
 .nav-link{
-    color: #653208!important;
+    color: #080503!important;
 }
 
 .text-bg-primary {
-    background-color: #4a928fc2!important;
+    background-color: #a57f60!important;
 }
 
 .titulo-proyecto{
@@ -45,6 +45,25 @@
     background-image: url('unsplash-photo-1.jpg');
 }
 
+
+.testimonios{
+    color: #000000;
+}
+
+.carousel-indicators [data-bs-target]{
+background-color: #9F72F2;
+height: 5px;
+}
+
+.carousel-control-prev [data-bs-slide]{
+background-color:#9F72F2;
+height: 5px;
+}
+
+.carousel-control-next [data-bs-slide]{
+    background-color: #9F72F2;
+    height: 5px;
+}
 .carousel-item{
     height: 400px;
 }
