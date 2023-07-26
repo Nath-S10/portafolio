@@ -12,6 +12,8 @@ También contiene una sección de almacenamiento de archivos *(imágenes)* que n
 
 ## Producto 💻
 Puedes entrar a ver mi presentación en este vínculo: (https://musical-selkie-6c5561.netlify.app) 
+![image](https://github.com/Nath-S10/portafolio/assets/140439315/6e3ebc78-0f88-4943-b385-c5151b4bd673)
+
 
 ## Tecnologías
 
